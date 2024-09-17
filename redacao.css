@@ -1,0 +1,40 @@
+p {
+    /* font-family:cursive; Aletra a fonte dos textos */
+    font-size: 20px; /* Altera o tamanho da fonte dos textos */
+    /* text-decoration: underline; Deixa um sublinhado */
+    /* text-decoration:line-through; Deixa um traço no meio do texto */
+}
+header {
+    font-family:sans-serif;
+    text-align: center; /* Centraliza o texto ao centro */
+    color: #EAB600; /* Altera a cor do texto */
+    background-color: #2B2D41; /* Altera a cor de fundo */
+    padding: 8px; /* Define a distância entre o texto e a borda */
+    border-radius: 8px;
+}
+body {
+    background-color: #DDDDDD;
+}
+h2 {
+    font-family: sans-serif;
+    border-radius: 8px; /* Arredonda as bordas */
+    box-shadow: 0px 2px 4px black; /* Coloca uma sombra para criar cards */
+    text-align: center; 
+    color: #EAB600;
+    background-color: #2B2D41;
+    padding: 4px;
+}
+section {
+    border-radius: 8px;
+    box-shadow: 0px 2px 4px black;
+    background-color: #beb5b5;
+    margin: 4px;
+}
+footer {
+    font-size: 20px;
+    font-family: monospace;
+    text-align: center;
+    background-color: #8E8E21;
+    border-radius: 8px;
+    padding: 8px;
+}
